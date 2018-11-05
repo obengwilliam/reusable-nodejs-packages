@@ -1,11 +1,11 @@
 # `@spot/queue`
 
-> TODO: description
 
 ## Usage
 
 ```
 const queue = require('@spot/queue');
 
-// TODO: DEMONSTRATE API
+queue.publish('new-signup', '{name:"william"}')
+queue.subscribe('new-signup')
 ```
