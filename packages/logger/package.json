@@ -14,5 +14,6 @@
   },
   "scripts": {
     "test": "mocha lib/*.test.js"
-  }
+  },
+  "gitHead": "268fbd2417ec0d9983d74ab960ee9856d6b25632"
 }
