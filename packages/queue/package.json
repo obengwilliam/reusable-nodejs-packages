@@ -1,5 +1,5 @@
 {
-  "name": "lqueue",
+  "name": "mlqueue",
   "version": "1.0.2",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
@@ -16,5 +16,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "268fbd2417ec0d9983d74ab960ee9856d6b25632"
+  "gitHead": "c47d73d3affd87c8f1756ceedbe67a46cc3d889e"
 }
