@@ -1,5 +1,5 @@
 {
-  "name": "mllogger",
+  "name": "@billobeng/mllogger",
   "version": "1.0.3",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
@@ -15,5 +15,5 @@
   "scripts": {
     "test": "mocha lib/*.test.js"
   },
-  "gitHead": "268fbd2417ec0d9983d74ab960ee9856d6b25632"
+  "gitHead": "172c9b7268f7880e4543f2b140252e2f8bfba96d"
 }
